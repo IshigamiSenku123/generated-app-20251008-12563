@@ -1,6 +1,6 @@
 # ChessEdge
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/IshigamiSenku123/generated-app-20251008-12563)
 
 ChessEdge is a sophisticated, visually stunning online multiplayer chess application built to run entirely on Cloudflare's edge network. The platform offers multiple game modes: a challenging single-player experience against an AI, a seamless random matchmaking system for competitive play, and private lobbies for playing with friends. The core of the application is powered by Cloudflare Durable Objects to manage player profiles, individual game states, and the matchmaking queue, ensuring scalability and low latency. Player profiles track career statistics like wins, losses, and total games played. During matches, players can communicate through an integrated real-time chat. The frontend is a masterpiece of modern UI/UX design, featuring a clean, intuitive interface, smooth animations, and a beautiful, high-contrast design that makes playing a delight.
 
@@ -101,4 +101,4 @@ This project is designed for easy deployment to the Cloudflare network.
 
 You can also deploy this project to Cloudflare with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/IshigamiSenku123/generated-app-20251008-12563)
